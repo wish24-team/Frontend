@@ -1,4 +1,3 @@
-
 /*
 Author: W3layouts
 Author URL: http://w3layouts.com
@@ -4066,6 +4065,24 @@ a.read-more-btn2.btn:hover {
   -moz-background-size: cover;
 }
 
+.w3l-banner-slider-main .carousel-item.item5 {
+  background: url(../images/banner4.jpg) no-repeat center;
+  background-size: cover;
+  -webkit-background-size: cover;
+  -o-background-size: cover;
+  -ms-background-size: cover;
+  -moz-background-size: cover;
+}
+
+.w3l-banner-slider-main .carousel-item.item6 {
+  background: url(../images/banner4.jpg) no-repeat center;
+  background-size: cover;
+  -webkit-background-size: cover;
+  -o-background-size: cover;
+  -ms-background-size: cover;
+  -moz-background-size: cover;
+}
+
 .w3l-banner-slider-main .carousel-item:before {
   content: "";
   background: rgba(16, 16, 16, 0.470588);
@@ -4126,10 +4143,12 @@ a.read-more-btn2.btn:hover {
 }
 
 .w3l-banner-slider-main .right-1 h4 {
-  font-size: 56px;
-  text-transform: uppercase;
-  line-height: 66px;
+  font-size: 60px;
+  text-transform: capitalize;
+  line-height: 60px;
   color: #fff;
+  text-align: center;
+  margin-top: 100%;
 }
 
 .w3l-banner-slider-main .carousel-indicators {
